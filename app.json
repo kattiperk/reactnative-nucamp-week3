@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "nucampsite-week3",
+    "slug": "nucampsite-week3",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
